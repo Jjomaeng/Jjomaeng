@@ -1,9 +1,9 @@
-👋 ### Minhee Cho
+## 👋 Minhee Cho
 
 
 
-📚 Education
+#### 📚 Education
  - Computer Engineering Student in Ewha Womans University, South Korea
 
-✏️ I'm currently Interested in ...
+#### ✏️ I'm currently Interested in ...
 - Deep Learning |  Coumputer vision
