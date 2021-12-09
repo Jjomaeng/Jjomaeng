@@ -7,3 +7,8 @@
 
 #### ✏️ I'm currently Interested in ...
 - Deep Learning |  Computer vision
+
+#### 🔥 I’m currently working on
+
+- KT AIVLE AI Developer (2021.12~)
+- Graduation Project on Ewha Womans University (2021.03~)
