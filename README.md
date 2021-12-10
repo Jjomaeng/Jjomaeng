@@ -6,7 +6,7 @@
  - Computer Engineering Student in Ewha Womans University, South Korea
 
 #### ✏️ I'm currently Interested in ...
-- Deep Learning |  Computer vision
+- Deep Learning |  Computer Vision
 
 #### 🔥 I’m currently working on
 
