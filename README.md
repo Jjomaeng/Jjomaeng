@@ -11,4 +11,6 @@
 #### 🔥 I’m currently working on
 
 - KT AIVLE AI Developer (2021.12~)
-- Graduation Project on Ewha Womans University (2021.03~)
+
+ #### I worked on.
+- Graduation Project on Ewha Womans University (2021.03~2021.12)
